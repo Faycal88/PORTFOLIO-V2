@@ -1,0 +1,27 @@
+{
+  "job": "Full Stack Web Developer",
+  "name": "Fayçal MERABET",
+  "desc": "A creative mind hailing from Algeria, weaving digital wonders.",
+  "aboutDesc": "I'm Fayçal MERABET, a dynamic Full Stack Web Developer with over 3 years of hands-on experience. Specializing in the MERN stack and related technologies, I craft and deploy robust web applications that drive business growth. Proficient in PHP, Laravel, and WordPress customization, I seamlessly integrate APIs like SendGrid and Firebase, enriching functionality with email automation, chatbots, and SMS capabilities. Beyond conventional web development, I venture into indie and interactive game creation using Unity with C#, targeting versatile WebGL platforms. My expertise extends to effective teamwork and client management, ensuring seamless project execution and satisfaction. With a proactive approach to communication using platforms like Teams and Slack, I guarantee a smooth collaboration experience. Constantly evolving, I prioritize professional development through Udemy courses in app development, game design, and cloud computing on AWS. My journey into web development began as a Computer Science student, further refined through a rigorous Full Stack JavaScript Bootcamp at Go My Code in 2022. Eager to contribute my technical proficiency, creative problem-solving skills, and passion for innovation to your remote development team, I'm committed to driving your project's success.",
+  "email": "merabet.faycal@outlook.com",
+  "status": "on",
+  "hireMeLink": "https://www.malt.fr/profile/faycalmerabet",
+  "projects": [
+    {
+      "project-image-url": "https://res.cloudinary.com/dakbbymwz/image/upload/v1660500349/Logo/logo_plantes_11_d5qid8.png",
+      "project-name": "L'éternelle Des Plantes",
+      "project-desc": "MERN e-commerce web application",
+      "project-link":""
+    }
+  ],
+  "social": [
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/Faycal88"
+    },
+    {
+      "icon": "FaLinkedinIn",
+      "link": "https://www.linkedin.com/in/faycal-merabet-7b3234241/"
+    }
+  ]
+}
